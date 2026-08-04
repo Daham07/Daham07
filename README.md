@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daham Nethpriya</h1>
 
-<h3 align="center">IT Undergraduate | Software Engineering & Web Development Enthusiast</h3>
+<h3 align="center">IT Undergraduate | Software Engineering & Web Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile Views" />
