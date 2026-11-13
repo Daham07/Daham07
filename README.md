@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=007ec6" alt="Followers" />
 </p>
 
 ---
